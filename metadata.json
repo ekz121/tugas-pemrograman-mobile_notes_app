@@ -1,0 +1,6 @@
+{
+  "name": "Note App",
+  "description": "A beautiful, organized note-taking application with priority ratings, importance flags, category color tagging, and local SQLite database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
